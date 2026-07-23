@@ -35,3 +35,4 @@ AudioPulse captures system audio in real-time using WASAPI loopback, processes t
 ---
 
 ## 🚀 Getting Started
+https://github.com/bnLexsi/Audio-Visualizer/releases/tag/v1.0.0
