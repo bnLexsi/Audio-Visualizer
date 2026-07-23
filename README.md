@@ -1,7 +1,7 @@
 # Audio-Visualizer 🎵
 > A lightweight, sleek, and responsive 12-band audio visualizer built with C# and Guna UI 2.
 
-AudioPulse captures system audio in real-time using WASAPI loopback, processes the sound via Fast Fourier Transform (FFT), and visualizes the frequency spectrum across 12 custom logarithmic bands—from sub-bass to air frequencies.
+Audio-Visualizer captures system audio in real-time using WASAPI loopback, processes the sound via Fast Fourier Transform (FFT), and visualizes the frequency spectrum across 12 custom logarithmic bands—from sub-bass to air frequencies.
 
 ---
 
