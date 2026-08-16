@@ -35,4 +35,4 @@ Audio-Visualizer captures system audio in real-time using WASAPI loopback, proce
 ---
 
 ## 🚀 Getting Started
-https://github.com/bnLexsi/Audio-Visualizer/releases/tag/v1.0.0
+https://github.com/bnLexsi/Audio-Visualizer/releases/tag/v1.0.1
